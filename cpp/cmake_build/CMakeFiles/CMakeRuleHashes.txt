@@ -1,0 +1,20 @@
+# Hashes of file build rules.
+935c879cda71a96984f3040c99d36019 CMakeFiles/lint
+865d2ad7da1498a596b7139714a1050d CMakeFiles/miniz_ep
+53467e71778cbf7ea865238b8171f3c4 CMakeFiles/miniz_ep-complete
+865d2ad7da1498a596b7139714a1050d CMakeFiles/stb_ep
+a38d4b0f427181f9ac795f2652825cb6 CMakeFiles/stb_ep-complete
+f73f804efd1da2e51f725637b3721a8e miniz_ep-prefix/src/miniz_ep-stamp/miniz_ep-build
+7d8c070ea49a52d8faba945f92d04861 miniz_ep-prefix/src/miniz_ep-stamp/miniz_ep-configure
+421a9f183d79a5f6dddaa796e75b2bf8 miniz_ep-prefix/src/miniz_ep-stamp/miniz_ep-download
+a89c73017613a1e3abe4ddb6be320e54 miniz_ep-prefix/src/miniz_ep-stamp/miniz_ep-install
+d0bfcf02d011ea51bbc2ab1684dd6bd2 miniz_ep-prefix/src/miniz_ep-stamp/miniz_ep-mkdir
+843067c286fbdbac91d3eda46c90ac43 miniz_ep-prefix/src/miniz_ep-stamp/miniz_ep-patch
+15cfce7b2f1a2f9d9dc740eceeebec91 miniz_ep-prefix/src/miniz_ep-stamp/miniz_ep-update
+e0e135e419f9f667814f0c885ad4baae stb_ep-prefix/src/stb_ep-stamp/stb_ep-build
+3fb1c79a45bffbec4a51b78bc46d7e93 stb_ep-prefix/src/stb_ep-stamp/stb_ep-configure
+c0a5fc8a2ff9e6260d7980b91e70bef2 stb_ep-prefix/src/stb_ep-stamp/stb_ep-download
+992e05c90f129f3cae11c487a16c6f5c stb_ep-prefix/src/stb_ep-stamp/stb_ep-install
+2fc930d43198d950341ed31ec07f0ede stb_ep-prefix/src/stb_ep-stamp/stb_ep-mkdir
+2f575128f6da9c1ed319c8980faf60e6 stb_ep-prefix/src/stb_ep-stamp/stb_ep-patch
+7bed4e5e306128d7c1667af4c43836e5 stb_ep-prefix/src/stb_ep-stamp/stb_ep-update

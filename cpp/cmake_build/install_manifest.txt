@@ -1,0 +1,10 @@
+/home/liangliu/anaconda3/envs/zgis_dev/lib/libminiz.so
+/home/liangliu/anaconda3/envs/zgis_dev/lib/libminiz.so.2.1.0
+/home/liangliu/anaconda3/envs/zgis_dev/lib/libminiz.so.2
+/home/liangliu/anaconda3/envs/zgis_dev/scripts/arctern_env.sh
+/home/liangliu/anaconda3/envs/zgis_dev/lib/libwindrose.so
+/home/liangliu/anaconda3/envs/zgis_dev/unittest/pointmap_tests
+/home/liangliu/anaconda3/envs/zgis_dev/unittest/heatmap_tests
+/home/liangliu/anaconda3/envs/zgis_dev/unittest/choroplethmap_tests
+/home/liangliu/anaconda3/envs/zgis_dev/unittest/gis_tests
+/home/liangliu/anaconda3/envs/zgis_dev/unittest/gdal_tests

@@ -1,0 +1,18 @@
+Performing C SOURCE FILE Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY failed with the following output:
+Change Dir: /home/liangliu/workspace/arctern/cpp/cmake_build/miniz_ep-prefix/src/miniz_ep-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c6bf9/fast && make[3]: Entering directory '/home/liangliu/workspace/arctern/cpp/cmake_build/miniz_ep-prefix/src/miniz_ep-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_c6bf9.dir/build.make CMakeFiles/cmTC_c6bf9.dir/build
+make[4]: Entering directory '/home/liangliu/workspace/arctern/cpp/cmake_build/miniz_ep-prefix/src/miniz_ep-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c6bf9.dir/src.c.o
+/usr/bin/cc   -DCOMPILER_HAS_HIDDEN_INLINE_VISIBILITY   -fvisibility-inlines-hidden -o CMakeFiles/cmTC_c6bf9.dir/src.c.o   -c /home/liangliu/workspace/arctern/cpp/cmake_build/miniz_ep-prefix/src/miniz_ep-build/CMakeFiles/CMakeTmp/src.c
+cc1: warning: command line option '-fvisibility-inlines-hidden' is valid for C++/ObjC++ but not for C
+Linking C executable cmTC_c6bf9
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c6bf9.dir/link.txt --verbose=1
+/usr/bin/cc  -DCOMPILER_HAS_HIDDEN_INLINE_VISIBILITY    -rdynamic CMakeFiles/cmTC_c6bf9.dir/src.c.o  -o cmTC_c6bf9 
+make[4]: Leaving directory '/home/liangliu/workspace/arctern/cpp/cmake_build/miniz_ep-prefix/src/miniz_ep-build/CMakeFiles/CMakeTmp'
+make[3]: Leaving directory '/home/liangliu/workspace/arctern/cpp/cmake_build/miniz_ep-prefix/src/miniz_ep-build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main(void) { return 0; }

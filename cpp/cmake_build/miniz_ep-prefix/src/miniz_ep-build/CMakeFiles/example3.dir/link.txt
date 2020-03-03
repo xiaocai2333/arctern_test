@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/example3.dir/examples/example3.c.o  -o /home/liangliu/workspace/arctern/cpp/cmake_build/miniz_ep-prefix/src/miniz_ep/bin/example3 -Wl,-rpath,/home/liangliu/workspace/arctern/cpp/cmake_build/miniz_ep-prefix/src/miniz_ep-build libminiz.so.2.1.0 
