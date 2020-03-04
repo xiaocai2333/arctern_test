@@ -1,0 +1,8 @@
+setup.py
+zilliz_pyspark/__init__.py
+zilliz_pyspark/_wrapper_func.py
+zilliz_pyspark/register.py
+zilliz_pyspark.egg-info/PKG-INFO
+zilliz_pyspark.egg-info/SOURCES.txt
+zilliz_pyspark.egg-info/dependency_links.txt
+zilliz_pyspark.egg-info/top_level.txt
