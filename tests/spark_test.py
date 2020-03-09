@@ -13,7 +13,7 @@
 # limitations under the License.
 
 from pyspark.sql import SparkSession
-from zilliz_pyspark import register_funcs
+from arctern_pyspark import register_funcs
 import random
 import shutil
 import os
